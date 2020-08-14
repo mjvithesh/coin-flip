@@ -1,4 +1,4 @@
-# coin-flip
+# Coin-Flip
 
 <b> It's like flipping burgers, but cooler! </b>
 
